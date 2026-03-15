@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "chestesp",
+    "name": "ChestESP",
+    "description": "ESP pour les coffres, dispensers et droppers avec couleurs personnalisables.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["vous"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
